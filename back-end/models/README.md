@@ -1,1 +1,0 @@
-You can find the model on "https://github.com/Tai-Hsien/MeshSegNet/tree/master/models"
